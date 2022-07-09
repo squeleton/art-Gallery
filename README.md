@@ -1,3 +1,3 @@
 # art-Gallery
-just a flexbox test.
-(https://user-images.githubusercontent.com/86810099/178121828-f8d66055-636f-4490-b66d-6b5393a52fd3.png)
+![flex](https://user-images.githubusercontent.com/86810099/178121858-960fafc1-9fba-441e-94d5-4773d5669298.png)
+Just a flexbox test :)
